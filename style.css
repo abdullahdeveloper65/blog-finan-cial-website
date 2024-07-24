@@ -1,0 +1,90 @@
+
+nav{
+    background-color: rgb(29, 47, 60);
+    font-size: 15px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+ul,h1,li {
+    display: inline-block;
+}
+ul{
+    word-spacing: 28px;
+    padding-left: 21%;
+    
+}
+h1{
+    margin-left: 15%;
+}
+li:hover{
+    background-color: rgb(83, 121, 11);
+    color: #253940;
+    cursor: pointer;
+}
+div.bar1{
+    background-color:  #24404c;
+    border: solid #24404c ;
+    height: 350px;
+}
+.img1{
+    
+    margin-left: 21%;
+    margin-top: 4%;
+    border: solid 6px white;
+    
+}
+div.bar2{
+    background-color: rgba(0, 0, 0, 0.726);
+    color: white;
+    width: 20%;
+    position: absolute;
+    top: 250px;
+    left: 340px;
+    padding: 10px; 
+}
+div.bar3{
+    border: solid rgba(243, 196, 125, 0.171);
+    height: 450px;
+    background-color:  rgba(243, 196, 125, 0.171);
+}
+.img2{
+    margin-left: 42%;
+     margin-top: 10%;
+     border: solid rgb(241, 137, 8) 6px;
+}
+h3{
+    margin-left:44%;
+}
+.p2{
+    margin-left: 38%;
+}
+button{
+    color: white;
+   border-radius:60px ;
+   width: 270px;
+   height:30px;
+    background-color: green;
+    margin-left: 42%;
+} 
+.bar4{
+    background-color: #24404c;
+    height: 390px;
+}
+h4{
+    font-size: 25px;
+    color: white;
+    padding-top: 3%;
+    padding-left: 5%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 40%;
+}
+.img3{
+    border: solid 6px white;
+    margin-left: 42%;
+   
+}
+.p8{
+    color: white;
+    margin-left: 30%;
+}
